@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'SnellRoundhandScript';
+    src: url('SnellRoundhandScript.eot');
+    src: url('SnellRoundhandScript.eot') format('embedded-opentype'),
+         url('SnellRoundhandScript.woff2') format('woff2'),
+         url('SnellRoundhandScript.woff') format('woff'),
+         url('SnellRoundhandScript.ttf') format('truetype'),
+         url('SnellRoundhandScript.svg#SnellRoundhandScript') format('svg');
+}
+
+@font-face {
+    font-family: 'MrDeHavilandRegular';
+    src: url('MrDeHavilandRegular.eot');
+    src: url('MrDeHavilandRegular.eot') format('embedded-opentype'),
+         url('MrDeHavilandRegular.woff2') format('woff2'),
+         url('MrDeHavilandRegular.woff') format('woff'),
+         url('MrDeHavilandRegular.ttf') format('truetype'),
+         url('MrDeHavilandRegular.svg#MrDeHavilandRegular') format('svg');
+}
+@font-face {
+    font-family: 'ufonts_com_americantypewriter';
+    src: url('ufonts_com_americantypewriter.eot');
+    src: url('ufonts_com_americantypewriter.eot') format('embedded-opentype'),
+         url('ufonts_com_americantypewriter.woff2') format('woff2'),
+         url('ufonts_com_americantypewriter.woff') format('woff'),
+         url('ufonts_com_americantypewriter.ttf') format('truetype'),
+         url('ufonts_com_americantypewriter.svg#ufonts_com_americantypewriter') format('svg');
+}

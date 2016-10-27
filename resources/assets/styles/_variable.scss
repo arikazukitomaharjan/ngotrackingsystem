@@ -1,0 +1,36 @@
+//Varibles to call
+
+
+
+//Theme colors
+$base-blue:#3da9e0;
+$base-purple:#bf81e8;
+$base-red:#e74e40;
+$base-yellow:#f3bc65;
+$base-green:#46d66c;
+$grey:#4e4e4e;
+
+
+//Headings
+$heading-size:36px;
+$h1:$heading-size;
+$h2:$h1 - 6px;
+$h3:$h2 - 5px;
+$h4:$h3 - 4px;
+$h5:$h4 - 2px;
+$h6:$h5 - 3px;
+
+
+
+//Fonts
+$base-font:'Yantramanav', sans-serif;
+
+
+@function black($opacity){
+    @return rgba(0,0,0,$opacity)
+}
+
+
+@function white($opacity){
+    @return rgba(255,255,255,$opacity)
+}

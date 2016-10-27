@@ -1,0 +1,90 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+@media all and (max-width: 1200px){
+
+	 .wrapper{width:100%;}
+
+}
+	
+
+
+@media all and (max-width: 1020px){
+
+	header,
+	#myWords,
+	.formWrapp{padding: 32px 5%}
+
+	.bannerTxt{font-size: 35px;padding: 0 5%}
+
+	#myWords p,
+	.left_part, 
+	.right_part,
+	.formWrapp{width:100%;height: auto;}
+
+	.left_part{min-height: 180px}
+	.right_part{padding: 5%;}
+	.right_part img{width:100%;}
+
+
+	.arrowDown {
+    top: -82px;
+    right: 0;
+    background-size: 60%;}
+
+
+    #contact{padding: 50px 0;}
+
+    .condition{width: 100%;}
+
+    #footer{text-align: left;padding: 32px 5%;}
+
+
+    .wrapper{width:100%;}
+
+    .leftContent,
+.RightContent{display: block;width: 100%;}
+.RightContent{margin-top:50px;}
+	
+	
+	}
+
+
+@media all and (max-width: 1030px){
+
+	.blogDetails{padding:0 30px;}
+
+}
+
+
+
+@media all and (max-width: 639px){
+
+	.imgWrapp,
+	.blogInfo{width:100%;padding: 0 25px;}
+	.blogSection{padding: 0;padding-top:25px;}
+	.blogSection .Row{margin-bottom: 25px;padding-bottom: 25px;}
+	.blogSection .Row:last-child{margin-bottom: 0}
+
+	.blogDetails{padding: 25px;}
+
+	.blogDetails{padding: 0 25px}
+	.blogDetails .imgWrapp{padding: 0;margin: 0; margin-bottom: 25px;}
+
+	#blogPage .arrowDown{display: none;}
+
+}
+
+
+
+
+
+@media all and (max-width: 439px){header ul, header ul li{float: left;margin-top: 6px;}}
+	
+
+	
+	
+/**/
+

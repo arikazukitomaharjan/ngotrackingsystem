@@ -1,0 +1,49 @@
+//Stylesheet for btn UI
+
+
+.btn{
+    font-size: 12px;
+    text-transform: uppercase;
+    padding: 8px 14px;
+    @extend .transition;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    margin-right: 10px;
+
+    &:hover{
+        color:white;
+        background-color: black(0.7);
+    }
+
+
+    i{
+        margin-right: 6px;
+    }
+}
+
+.btn_red{
+    background-color: $base-red;
+}
+
+.btn_blue{
+    background-color: $base-blue;
+}
+
+
+.btn_purple{
+    background-color: $base-purple;
+}
+
+.btn_green{
+    background-color: $base-green;
+}
+
+.btn_yellow{
+    background-color: $base-yellow;
+    color:black(0.6);
+
+    &:hover{
+        background-color: black;
+    }
+}

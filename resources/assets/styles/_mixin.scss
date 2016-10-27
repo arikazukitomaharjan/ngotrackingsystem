@@ -1,0 +1,8 @@
+//Mixins
+
+@mixin pad($value){
+
+    padding:($value $value $value $value);
+
+}
+
